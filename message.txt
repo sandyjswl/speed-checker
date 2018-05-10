@@ -1,0 +1,7 @@
+Dear ${PERSON_NAME}, 
+
+My current download speed is ${DOWN_SPEED} MB/s and upload speed is ${UPLOAD_SPEED} MB/s on a bandwith of 25 MB/s.
+Please look into it.
+
+Yours Truly
+Sandeep Jaiswal
